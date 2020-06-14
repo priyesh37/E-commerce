@@ -1,0 +1,24 @@
+@CHARSET "ISO-8859-1";
+
+.sidebar-col{
+	background-color:#993366;
+	color:white;
+	font-size:20px;	
+	min-height:100vh;
+	padding:0px;
+}
+
+.sidebar-col a{
+	text-decoration:none;
+	color:white;
+	font-size:20px;	
+	width:100%;
+	display : block;
+	trasition: 1s;
+	padding: 5px;
+}
+
+.sidebar-col a:hover{
+	background-color: black;
+	
+}
